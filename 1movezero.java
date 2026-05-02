@@ -1,6 +1,6 @@
 
 
-class Solution {
+class movezero {
     public void moveZeroes(int[] nums) {
         int temp;
         int x = nums.length;
