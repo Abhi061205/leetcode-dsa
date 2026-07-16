@@ -5,50 +5,49 @@ class Solution {
 
         List<List<Integer>> ans = new ArrayList<>();
 
-        // Step 1: Sort the array
         Arrays.sort(nums);
+        int left;
+        int right;
+        int sum;
+        int n = nums.length;
 
-        // Step 2: Fix one element
-        for (int i = 0; i < nums.length - 2; i++) {
+        for(int i=0 ;i<n-2 ;i++){
 
-            // Skip duplicate first elements
-            if (i > 0 && nums[i] == nums[i - 1]) {
+            if(i>0 && (nums[i] == nums[i-1]))
                 continue;
-            }
 
-            int left = i + 1;
-            int right = nums.length - 1;
+            left = i+1;
+            right = n-1;
+            sum = -1 * nums[i];
 
-            // Step 3: Use two pointers
-            while (left < right) {
+            while(left < right){
 
-                int sum = nums[i] + nums[left] + nums[right];
+                int s = nums[left] + nums[right];
+                if(s == sum){
 
-                if (sum == 0) {
-
-                    ans.add(Arrays.asList(nums[i], nums[left], nums[right]));
+                    ans.add(Arrays.asList(nums[i] ,nums[left] ,nums[right]));
 
                     left++;
                     right--;
+        
 
-                    // Skip duplicate left values
-                    while (left < right && nums[left] == nums[left - 1]) {
-                        left++;
-                    }
-
-                    // Skip duplicate right values
-                    while (left < right && nums[right] == nums[right + 1]) {
-                        right--;
-                    }
-
-                } else if (sum < 0) {
+                while(left < n && (nums[left]==nums[left-1])){
                     left++;
-                } else {
+                }
+
+                while(right >= 0 && (nums[right] == nums[right+1])){
+                    right--;
+                }
+
+                }else if(s< sum){
+                    left++;
+                }else{
                     right--;
                 }
             }
         }
 
-        return ans;
+ 
+ return ans;
     }
 }
