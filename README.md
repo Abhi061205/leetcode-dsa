@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi061205/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Abhi061205/leetcode-dsa/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Abhi061205/leetcode-dsa/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Abhi061205/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Abhi061205/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi061205/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abhi061205/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Abhi061205/leetcode-dsa/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Abhi061205/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Abhi061205/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
@@ -64,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi061205/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Abhi061205/leetcode-dsa/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
