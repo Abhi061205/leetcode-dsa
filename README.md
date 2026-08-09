@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abhi061205/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Abhi061205/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi061205/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/Abhi061205/leetcode-dsa/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Abhi061205/leetcode-dsa/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/Abhi061205/leetcode-dsa/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
