@@ -10,8 +10,7 @@ class Solution {
             return nums[nums.length-1];
         }else{  
 
-            // while(nums[nums.length-3] != nums[nums.length-2]){
-            //     return nums[nums.length-3]-1;
+             
 
             for(int j=nums.length-1 ; j>0 ;j--){
                 
