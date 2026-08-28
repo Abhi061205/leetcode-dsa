@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Abhi061205/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/Abhi061205/leetcode-dsa/tree/master/0414-third-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhi061205/leetcode-dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/Abhi061205/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhi061205/leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/Abhi061205/leetcode-dsa/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi061205/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi061205/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Abhi061205/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhi061205/leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
 ## Quicksort
 |  |
