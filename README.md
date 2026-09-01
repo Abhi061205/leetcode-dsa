@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Abhi061205/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhi061205/leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/Abhi061205/leetcode-dsa/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Abhi061205/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi061205/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi061205/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhi061205/leetcode-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhi061205/leetcode-dsa/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Abhi061205/leetcode-dsa/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abhi061205/leetcode-dsa/tree/master/0217-contains-duplicate) |
+| [0904-fruit-into-baskets](https://github.com/Abhi061205/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 ## Stack
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi061205/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhi061205/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhi061205/leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Abhi061205/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi061205/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhi061205/leetcode-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhi061205/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
