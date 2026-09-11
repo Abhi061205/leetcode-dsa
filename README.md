@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Abhi061205/leetcode-dsa/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Abhi061205/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Abhi061205/leetcode-dsa/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Abhi061205/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi061205/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Abhi061205/leetcode-dsa/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Abhi061205/leetcode-dsa/tree/master/0344-reverse-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi061205/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Abhi061205/leetcode-dsa/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/Abhi061205/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Abhi061205/leetcode-dsa/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Abhi061205/leetcode-dsa/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abhi061205/leetcode-dsa/tree/master/0217-contains-duplicate) |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Abhi061205/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Abhi061205/leetcode-dsa/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Abhi061205/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
