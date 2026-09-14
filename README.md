@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi061205/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Abhi061205/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Abhi061205/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Abhi061205/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Abhi061205/leetcode-dsa/tree/master/0414-third-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhi061205/leetcode-dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhi061205/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Abhi061205/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi061205/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Abhi061205/leetcode-dsa/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Abhi061205/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Abhi061205/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Abhi061205/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhi061205/leetcode-dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi061205/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi061205/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Abhi061205/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhi061205/leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi061205/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abhi061205/leetcode-dsa/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Abhi061205/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,4 +196,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhi061205/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhi061205/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Abhi061205/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Abhi061205/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
