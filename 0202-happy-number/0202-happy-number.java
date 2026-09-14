@@ -1,38 +1,71 @@
 import java.util.*;
 class Solution {
 
-    public int sqofDigitSum(int n){
-        int sum =0;
 
-        while(n>0){
+    public int funSum(int n){
 
-            int rem = n % 10;
-            n /= 10;
+        int sum = 0;
 
-            sum = sum + (rem * rem);
+        while(n > 0){
+
+            int d = n % 10;
+            n = n / 10;
+
+            sum = sum + (d*d);
+           
         }
-        return sum;
+         return sum;
     }
+
     public boolean isHappy(int n) {
-        Set<Integer> set = new HashSet<>();
 
-        while(n!=1){
+        int slow =  n;
+        int fast =  n;
+         
+        while(fast != 1){
 
-            if(set.contains(n)){
-                return false;
-            }
+        slow = funSum(slow);
+        fast = funSum(fast);
+        fast = funSum(fast);
 
-            set.add(n);
+        if(fast == slow && slow != 1){
 
-            n =sqofDigitSum(n);
-
+            return false;
         }
+    }
 
-        return true;
+    return true;
 
 
 
+    // public int sqofDigitSum(int n){
+    //     int sum =0;
 
+    //     while(n>0){
+
+    //         int rem = n % 10;
+    //         n /= 10;
+
+    //         sum = sum + (rem * rem);
+    //     }
+    //     return sum;
+    // }
+    // public boolean isHappy(int n) {
+    //     Set<Integer> set = new HashSet<>();
+
+    //     while(n!=1){
+
+    //         if(set.contains(n)){
+    //             return false;
+    //         }
+
+    //         set.add(n);
+
+    //         n =sqofDigitSum(n);
+
+    //     }
+
+    //     return true;
         
     }
 }
