@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Abhi061205/leetcode-dsa/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Abhi061205/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhi061205/leetcode-dsa/tree/master/0918-maximum-sum-circular-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/Abhi061205/leetcode-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhi061205/leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi061205/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi061205/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi061205/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi061205/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Abhi061205/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Abhi061205/leetcode-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhi061205/leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhi061205/leetcode-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Abhi061205/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi061205/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhi061205/leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Abhi061205/leetcode-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhi061205/leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi061205/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhi061205/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Abhi061205/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhi061205/leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Abhi061205/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Abhi061205/leetcode-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi061205/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhi061205/leetcode-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhi061205/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
