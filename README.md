@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Abhi061205/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi061205/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Abhi061205/leetcode-dsa/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhi061205/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhi061205/leetcode-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhi061205/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhi061205/leetcode-dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/Abhi061205/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Abhi061205/leetcode-dsa/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhi061205/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhi061205/leetcode-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhi061205/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhi061205/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 ## Queue
 |  |
 | ------- |
