@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhi061205/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Abhi061205/leetcode-dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Abhi061205/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhi061205/leetcode-dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/Abhi061205/leetcode-dsa/tree/master/0682-baseball-game) |
@@ -272,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhi061205/leetcode-dsa/tree/master/0918-maximum-sum-circular-subarray) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Abhi061205/leetcode-dsa/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
